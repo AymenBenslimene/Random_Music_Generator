@@ -7,7 +7,7 @@ Music generator with RNN. Classifier and BD with the different composers and Map
 - To Test Classifier: You should run Classificateur.py (Data Base is needed) 
 
 - To Run Django Application : 
-  1) You should download Zip : "DjangoApp/MusicAI"
+  1) You should download from "https://drive.google.com/drive/u/1/folders/1PpN6DVKzJPezORSs6LJMFg-vaEyC8Hqn" : "MusicAI"
   2) Extract File and go into Directory: "/MusicAI/MyApp/scripts" 
   3) run CMD/terminal
   4) Activate Environment with command: "Activate"
